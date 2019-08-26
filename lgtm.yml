@@ -1,0 +1,7 @@
+path_classifiers:
+  test:
+    - exclude: "src/testcases/*/*.java"
+    - exclude: "src/testcases/*/*/*.java"
+
+
+    
